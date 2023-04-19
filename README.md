@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anthony-Shafer
 - 👀 I’m interested in software Development and web development
-- 🌱 I’m currently learning JavaScript and python
+- 🌱 I’m currently improving myself on php
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me insta: anthony.byansi, Twitter: @anthony_byansi
 
